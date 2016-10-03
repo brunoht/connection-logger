@@ -1,4 +1,4 @@
-# connection-logger
+# ConnectionLogger
 Windows' batch script for logging ping responses
 
 ## How to install?
